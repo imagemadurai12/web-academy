@@ -28,6 +28,11 @@
     --bg-tertiary-color: #262626;
 }
 
+
+.wrapper {
+    width: 75%;
+}
+
 /* Button styles */
 .primary-btn,
 .secondary-btn {
