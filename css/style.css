@@ -20,14 +20,12 @@
     --fw-bold: 700;
     --primary-color: #FFFFFF;
     --secondary-color: #262626;
-    --tertiary-color: #FB6818;
-    --bg-primary-color: #FB6818;
+    /* --tertiary-color: #FB6818;
+    --bg-primary-color: #FB6818; */
+    --tertiary-color: #9bde27;
+    --bg-primary-color: #9bde27;
     --bg-secondary-color: #FFFFFF;
     --bg-tertiary-color: #262626;
-}
-
-.wrapper {
-    width: 75%;
 }
 
 /* Button styles */
